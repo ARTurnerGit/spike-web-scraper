@@ -1,0 +1,11 @@
+* {
+  text-align: center;
+}
+
+body {
+  width: 80%;
+  margin: 5vh auto;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
